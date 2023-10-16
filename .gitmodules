@@ -1,3 +1,6 @@
 [submodule "icefall"]
 	path = icefall
 	url = https://github.com/k2-fsa/icefall
+[submodule "tmp/icefall_asr_yesno_tdnn"]
+	path = tmp/icefall_asr_yesno_tdnn
+	url = https://huggingface.co/csukuangfj/icefall_asr_yesno_tdnn
